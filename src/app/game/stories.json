@@ -1,0 +1,42 @@
+{
+  "stories": [
+    {
+      "title": "First Story",
+      "story": {
+        "lines": [
+          "Once upon a time there was a ",
+          " who was very ",
+          ".  They loved to ",
+          "\n",
+          ". They loved to ",
+          " and ",
+          "\n",
+          "."
+        ],
+        "spaces": [
+          "noun1",
+          "adjective1",
+          "verb1",
+          "adverb1",
+          "verb2",
+          "verb3",
+          "noun2"
+        ]
+      }
+    },
+    {
+      "title": "Second Story",
+      "story": {
+        "lines": [
+          "A long long time ago there was a ",
+          " ",
+          ".  This person loved to ",
+          " all of the time.  Until one day a ",
+          " ",
+          " on them!"
+        ],
+        "spaces": ["adjective1", "noun1", "verb1", "noun2", "verb2"]
+      }
+    }
+  ]
+}
